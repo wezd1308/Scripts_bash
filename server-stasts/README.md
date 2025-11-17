@@ -3,7 +3,7 @@
 
 Script en **Bash** para analizar estadísticas básicas de rendimiento en cualquier servidor Linux. Este script muestra información de CPU, memoria RAM, discos y procesos que consumen más recursos.
 
-🔗 Proyecto
+## Proyecto
 
 Página del proyecto: https://roadmap.sh/projects/server-stats 
 
