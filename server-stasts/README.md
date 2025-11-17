@@ -7,6 +7,7 @@ Este script muestra información de CPU, memoria RAM, discos y procesos que cons
 
 ## 🔗 Proyecto
 Repositorio: https://github.com/wezd1308/Scripts_bash/tree/main/server-stasts  
+
 Página del proyecto: https://roadmap.sh/projects/server-stats
 
 ---
