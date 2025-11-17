@@ -6,7 +6,7 @@ Script en **Bash** para analizar estadísticas básicas de rendimiento en cualqu
 🔗 Proyecto
 
 Página del proyecto: https://roadmap.sh/projects/server-stats 
-Repositorio: https://github.com/wezd1308/Scripts_bash/tree/main/server-stasts
+
 
 ##  Descripción
 
