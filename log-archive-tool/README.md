@@ -4,6 +4,7 @@ Script en Bash para comprimir un directorio origen y mover el archivo comprimido
 Los directorios se reciben como argumentos al ejecutar el script.
 
 Página del proyecto: https://roadmap.sh/projects/log-archive-tool
+Repositorio: 
 
 # Características
 ✔ Comprime el directorio origen usando tar.gz
