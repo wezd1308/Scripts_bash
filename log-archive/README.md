@@ -1,24 +1,24 @@
 
 
-📦 Backup Script
+# Backup Script
 Script en Bash para comprimir un directorio origen y mover el archivo comprimido hacia un directorio destino.
 Los directorios se reciben como argumentos al ejecutar el script.
 
-🚀 Características
+# Características
 ✔ Comprime el directorio origen usando tar.gz
 ✔ Crea backups con nombre dinámico basado en fecha/hora
 ✔ Valida si el directorio destino existe
 ✔ Si no existe, lo crea automáticamente
 ✔ No es necesario editar el script internamente
 
-🧰 Requisitos
+# Requisitos
 
 Linux
 Bash
 Comando tar
 
 
-📌 Uso
+# Uso
 Ejecutar el script pasándole:
 ./log-archive.sh <directorio_origen> <directorio_destino>
 
