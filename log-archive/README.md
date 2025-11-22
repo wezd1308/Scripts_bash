@@ -35,4 +35,8 @@ log_AAMMDD-HHMM.tar.gz
 
 Lo mueve al directorio destino.
 
+👤 Autor
+Walter Zambrano
+
+
 
