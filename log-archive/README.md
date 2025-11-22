@@ -24,6 +24,7 @@ Ejecutar el script pasándole:
 
 
 ¿Qué hace exactamente?
+
 *Comprueba si el directorio destino existe
 
 *Si no existe → lo crea
@@ -31,6 +32,7 @@ Ejecutar el script pasándole:
 *Comprime el directorio origen completo
 
 *Genera un archivo con formato:
+
 log_AAMMDD-HHMM.tar.gz
 
 Lo mueve al directorio destino.
