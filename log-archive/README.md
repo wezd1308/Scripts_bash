@@ -1,4 +1,5 @@
 
+
 📦 Backup Script
 Script en Bash para comprimir un directorio origen y mover el archivo comprimido hacia un directorio destino.
 Los directorios se reciben como argumentos al ejecutar el script.
