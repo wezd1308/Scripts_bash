@@ -40,7 +40,7 @@ echo
 echo -e "\e[32mTop 5 response status codes:\e[0m"
 sudo cat /var/log/nginx/access.log | cut -d " " -f 9 | sort | uniq -c | sort -nr | awk '{print  $2 " - " $1 " requests "}'
 
-⚙️ Requirements
+## ⚙️ Requirements
 
 Linux system
 
@@ -52,18 +52,18 @@ Bash shell
 
 sudo privileges (required to read Nginx logs)
 
-🚀 How to Use
+## 🚀 How to Use
 
 Make the script executable:
 chmod +x nginx_log_analyzer.sh
 
-Run the script:
+## Run the script:
 
 ./nginx_log_analyzer.sh
 
 ⚠️ The script reads /var/log/nginx/access.log, so it may require sudo privileges depending on your system permissions.
 
-🛠 Requirements
+## 🛠 Requirements
 
 Linux system
 
@@ -72,7 +72,8 @@ Nginx installed
 Access to /var/log/nginx/access.log
 
 Bash shell
-👨‍💻 Author
+
+## 👨‍💻 Author
 
 Walter Zambrano
 
