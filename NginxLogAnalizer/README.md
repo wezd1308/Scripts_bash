@@ -1,5 +1,8 @@
 # Nginx Access Log Analyzer (Bash)
 
+Project URL: https://roadmap.sh/projects/nginx-log-analyser
+Repository GitHub: https://github.com/wezd1308/Scripts_bash/tree/main/NginxLogAnalizer
+
 A simple **Bash script** to analyze an **Nginx access log** and display useful statistics directly from the command line.
 
 This project is ideal for practicing:
