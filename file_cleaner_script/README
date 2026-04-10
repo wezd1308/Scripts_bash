@@ -1,6 +1,5 @@
 
-
-# 🧹 File Cleaner Script (Archivos > 1GB)
+## 🧹 File Cleaner Script (Archivos > 1GB)
 
 Script en Bash para buscar y eliminar archivos mayores a 1GB dentro de un directorio específico.
 
